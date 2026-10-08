@@ -1,1 +1,1 @@
-{"apkUrl": "https://github.com/XDev-Code/cuco-fill/releases/latest/download/app-debug.apk", "notes": "Versão 1.5.", "versionCode": 3, "versionName": "1.5"}
+{"apkUrl": "https://github.com/XDev-Code/cuco-fill/releases/latest/download/app-debug.apk", "notes": "Correção de Funcionalidade: redirect da licença agora leva série + CT + UC e o site passa a registar os valores.", "versionCode": 4, "versionName": "1.6"}
