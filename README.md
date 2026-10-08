@@ -1,9 +1,21 @@
-# CUCo Fill — updates (só app, sem source)
+<p align="center">
+  <img src="logo.png" alt="CUCo Fill" width="360" />
+</p>
 
-Este repo serve **só para a função de update** da app.
+# CUCo Fill
 
-- `version.json` → lido pela app em `UPDATE_URL`
-- Releases → têm o `app-debug.apk` que a app abre quando há versão nova
+App Android que lê o número de série, o CT (Certified Time) e o UC (Usage Counter) através de fotos — com OCR feito no próprio telemóvel, sem precisar de internet — e abre o Desbloqueador CUCo com os campos já preenchidos. Depois é só resolver o captcha e carregar em **"Mostrar Código"**.
 
-A app compara `versionCode` do `version.json` com o `versionCode` instalado.
-Se `version.json` for maior, mostra a caixa de update com `notes` e botão para `apkUrl`.
+## Como instalar
+
+1. Vai a [**Releases**](https://github.com/XDev-Code/cuco-fill/releases/latest) e saca o `app-release.apk`.
+2. No telemóvel, permite **"instalar apps desconhecidas"** quando o sistema pedir.
+3. Abre a app: na primeira vez escolhe o tema (claro ou escuro) e vê o mini tutorial.
+
+As atualizações aparecem sozinhas dentro da app, sem ser preciso sacar nada à mão.
+
+## Sobre
+
+Feito por **Farinha**, estudante de Programação.
+
+Projeto criado para facilitar o desbloqueio do CUCo na escola **AEVN**.
