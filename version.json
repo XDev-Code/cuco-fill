@@ -1,1 +1,6 @@
-{"apkUrl": "https://github.com/XDev-Code/cuco-fill/releases/latest/download/app-release.apk", "notes": "2o motor OCR: confirma 0/O e 1/I. Foto da galeria. Historico de desbloqueios. Polish do UI.", "versionCode": 30, "versionName": "2.23"}
+{
+  "apkUrl": "https://github.com/XDev-Code/cuco-fill/releases/latest/download/app-release.apk",
+  "notes": "Novo tema Premium: escuro azul-marinho com acentos amarelos e seriais em mono amarelo. Barras do sistema acompanham o tema.",
+  "versionCode": 31,
+  "versionName": "2.24"
+}
