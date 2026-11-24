@@ -1,6 +1,6 @@
 {
   "apkUrl": "https://github.com/XDev-Code/cuco-fill/releases/latest/download/app-release.apk",
-  "notes": "Novo tema Premium: escuro azul-marinho com acentos amarelos e seriais em mono amarelo. Barras do sistema acompanham o tema.",
-  "versionCode": 31,
-  "versionName": "2.24"
+  "notes": "Hotfix: 2o motor OCR desligado por defeito (crash na leitura). Registo de erros nas Definicoes.",
+  "versionCode": 32,
+  "versionName": "2.25"
 }
