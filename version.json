@@ -1,6 +1,6 @@
 {
   "apkUrl": "https://github.com/XDev-Code/cuco-fill/releases/latest/download/app-release.apk",
-  "notes": "Hotfix: 2o motor OCR desligado por defeito (crash na leitura). Registo de erros nas Definicoes.",
-  "versionCode": 32,
-  "versionName": "2.25"
+  "notes": "Leitura CT/UC com valor na linha seguinte. Ver ultima leitura OCR nas Definicoes.",
+  "versionCode": 33,
+  "versionName": "2.26"
 }
